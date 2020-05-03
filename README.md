@@ -1,8 +1,8 @@
 **NOTE**: This is just a clone of [r9y9's awesome repository](https://github.com/r9y9/tacotron_pytorch). We have just added a few variations to `train.py` to accomodate our experiments. These versions are described below. Please note that the train scripts do not change the original setup instructions or training commands in any manner. They are added just to aid in reproducibility of our experiments.
 
 
+- - -
 
---
 # tacotron_pytorch
 
 [![Build Status](https://travis-ci.org/r9y9/tacotron_pytorch.svg?branch=master)](https://travis-ci.org/r9y9/tacotron_pytorch)
